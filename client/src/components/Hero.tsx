@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
-import shagunImage from "../assets/shagunImage.jpg";
+import shagunImage from "../../public/shagunImage.jpg";
 
 export default function Hero() {
   return (
